@@ -199,18 +199,12 @@ const experiences = [
   },
   {
     title: "Full Stack Engineer",
-    company_name: "eMali",
+    company_name: "Elloe",
     icon: emali,
     iconBg: "#E6DEDD",
-    date: "Aug 2022 - Present",
+    date: "June 2022 - Present",
     points: [
-      "Develop and maintain web applications using MERN and other related technologies.",
-      "Participate in code reviews and provide constructive feedback to other developers to maintain code quality and best practices.",
-    	"Ensure the scalability, reliability, and security of web applications, and identify and resolve technical issues.",
-	    "Optimize application performance and actively participate in the full software development life cycle.",
-      "Keep up-to-date with emerging technologies and industry trends.",
-      "Collaborate with other teams, such as QA and DevOps, to ensure successful deployment and continuous improvement of web applications.",
-
+      "I am part of the DevOps team working on Elloe Platform optimization and application compatibility on the cloud. Designing and implementing robust Multi-cloud infrastructures, and distributed systems, particularly for products like Elloe Buddy. Committed to ensuring seamless integration, scalability, and peak performance across diverse cloud environments. With a holistic approach, I strive to leverage Elloe's  LLM APIs and Conversational AI technological capabilities and drive innovation in our solutions."
     ],
   },
 ];
