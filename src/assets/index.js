@@ -28,6 +28,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import emali from "./company/emali.png";
+import elloe from "./company/elloe.jpeg";
 import emaliStore from "./company/emaliStore.png";
 import emaliAdmin from "./company/emali_admin.png";
 import maskani from "./company/maskani.png";
@@ -70,6 +71,7 @@ export {
   threejs,
   taita,
   emali,
+  elloe,
   emaliStore,
   emaliAdmin,
   maskani,

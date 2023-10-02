@@ -20,6 +20,7 @@ import {
   chandarana,
   foodplus,
   emali,
+  elloe,
   emaliStore,
   emaliAdmin,
   maskani,
@@ -156,7 +157,7 @@ const experiences = [
   {
     title: "Full Stack Engineer",
     company_name: "Elloe.AI",
-    icon: emali,
+    icon: elloe,
     iconBg: "#E6DEDD",
     date: "June 2022 - Present",
     points: [
