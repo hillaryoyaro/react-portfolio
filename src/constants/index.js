@@ -204,7 +204,8 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "June 2022 - Present",
     points: [
-      "I am part of the DevOps team working on Elloe Platform optimization and application compatibility on the cloud. Designing and implementing robust Multi-cloud infrastructures, and distributed systems, particularly for products like Elloe Buddy. Committed to ensuring seamless integration, scalability, and peak performance across diverse cloud environments. With a holistic approach, I strive to leverage Elloe's  LLM APIs and Conversational AI technological capabilities and drive innovation in our solutions."
+      "I am part of the DevOps team working on Elloe Platform optimization and application compatibility on the cloud.",
+      " Designing and implementing robust Multi-cloud infrastructures, and distributed systems, particularly for products like Elloe Buddy. Committed to ensuring seamless integration, scalability, and peak performance across diverse cloud environments. With a holistic approach, I strive to leverage Elloe's  LLM APIs and Conversational AI technological capabilities and drive innovation in our solutions."
     ],
   },
 ];
