@@ -24,7 +24,8 @@ const Hero = () => {
             Distributive Multi Cloud Architecture.  <br className='sm:block hidden' />
             and Conversation AI Solution.
           </p>
-          <p className={`${styles.heroSubText} mt-1 text-yellow-100`}>
+          <br/>
+          <p className={`${styles.heroSubText} mt-1 text-yellow-75`}>
             "Lets Design ,Build and Deploy together. <br className='sm:block hidden' />
              the Land of intuitive and serverless product solution."
           </p>
