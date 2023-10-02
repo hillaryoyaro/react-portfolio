@@ -154,20 +154,6 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Product Manager",
-    company_name: "Food Plus",
-    icon: foodplus,
-    iconBg: "#383E56",
-    date: "Oct 2018 - Nov 2019",
-    points: [
-      "Identify opportunities to improve sales and profitability, and develop product strategies and roadmaps.",
-	    "Conduct competitive analyses and collaborate with cross-functional teams to deliver innovative solutions.",
-      "Define product requirements and features, prioritize development activities, and ensure product delivery within budget and timeline constraints.",
-      "Monitor and analyze key performance metrics to identify areas for improvement and make data-driven decisions.",
-    	"Work closely with other departments to ensure alignment on business objectives and support successful execution of initiatives.",
-    ],
-  },
-  {
     title: "Custom Billing",
     company_name: "Food Plus",
     icon: chandarana,
