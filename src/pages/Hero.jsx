@@ -26,8 +26,8 @@ const Hero = () => {
           </p>
           <br/>
           <p className={`${styles.heroSubText} mt-1 text-yellow-75`}>
-            "Lets Design ,Build and Deploy together. <br className='sm:block hidden' />
-             the Land of intuitive and serverless product solution."
+            "Lets Design ,Build and Deploy together..... <br className='sm:block hidden' />
+             the Land of intuitive and serverless product solutions."
           </p>
         </div>
       </div>
