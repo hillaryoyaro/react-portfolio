@@ -154,18 +154,14 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Custom Billing",
-    company_name: "Food Plus",
-    icon: chandarana,
+    title: "Full Stack Engineer",
+    company_name: "Elloe.AI",
+    icon: emali,
     iconBg: "#E6DEDD",
-    date: "Nov 2019 - sep 2022",
+    date: "June 2022 - Present",
     points: [
-      "Auditing billing data to ensure accuracy and completeness.",
-	    "Managing ETL systems using Retail's point-of-sale software tools to analyze and prepare reports for informed decisions.",
-	    "Providing data management and pricing calculations to ensure accurate customer billing.",
-	    "Addressing billing issues and gathering valuable feedback from customers.",
-	    "Monitoring billing processes and making recommendations for process improvements.",
-	    "Ensuring compliance with all relevant billing regulations and policies."
+      "I am part of the DevOps team working on Elloe Platform optimization and application compatibility on the cloud.",
+      " Designing and implementing robust Multi-cloud infrastructures, and distributed systems, particularly for products like Elloe Buddy. Committed to ensuring seamless integration, scalability, and peak performance across diverse cloud environments. With a holistic approach, I strive to leverage Elloe's  LLM APIs and Conversational AI technological capabilities and drive innovation in our solutions."
     ],
   },
   {
@@ -184,14 +180,18 @@ const experiences = [
     ],
   },
   {
-    title: "Full Stack Engineer",
-    company_name: "Elloe.AI",
-    icon: emali,
+    title: "Custom Billing",
+    company_name: "Food Plus",
+    icon: chandarana,
     iconBg: "#E6DEDD",
-    date: "June 2022 - Present",
+    date: "Nov 2019 - sep 2022",
     points: [
-      "I am part of the DevOps team working on Elloe Platform optimization and application compatibility on the cloud.",
-      " Designing and implementing robust Multi-cloud infrastructures, and distributed systems, particularly for products like Elloe Buddy. Committed to ensuring seamless integration, scalability, and peak performance across diverse cloud environments. With a holistic approach, I strive to leverage Elloe's  LLM APIs and Conversational AI technological capabilities and drive innovation in our solutions."
+      "Auditing billing data to ensure accuracy and completeness.",
+	    "Managing ETL systems using Retail's point-of-sale software tools to analyze and prepare reports for informed decisions.",
+	    "Providing data management and pricing calculations to ensure accurate customer billing.",
+	    "Addressing billing issues and gathering valuable feedback from customers.",
+	    "Monitoring billing processes and making recommendations for process improvements.",
+	    "Ensuring compliance with all relevant billing regulations and policies."
     ],
   },
   {
