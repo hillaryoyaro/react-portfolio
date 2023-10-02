@@ -26,9 +26,9 @@ const Hero = () => {
           </p>
           <br/>
           <p className={`${styles.heroSubText} mt-1 text-yellow-75`}>
-                   Adopting D3 Model FrameWork of work...is my value to customer.<br className='sm:block hidden' />
-            "Lets Design ,Develop and Deploy together..... <br className='sm:block hidden' />
-             the Land of intuitive and serverless product solutions."
+            "Adopting D3 Model Work frame is my value to customer.<br className='sm:block hidden' />
+             Lets Design ,Develop and Deploy together.....the <br className='sm:block hidden' />
+             Land of intuitive and serverless product solutions."
           </p>
         </div>
       </div>
