@@ -20,8 +20,9 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             Full Stack Software Engineer at Elloe.AI. <br className='sm:block hidden' />
-            I develop Modern Web Applications <br className='sm:block hidden' />
-            and AWS Solution Architecture.
+            I develop Modern Data Driven Applications. <br className='sm:block hidden' />
+            Distributive Multi Cloud Architecture.  <br className='sm:block hidden' />
+            and Conversation AI Solution.
           </p>
         </div>
       </div>
